@@ -1,60 +1,71 @@
 # Mahomet Khalil Kiri
 
-Offensive Security & Embedded Systems Engineer  
+Offensive Security & AI Engineer  
 
-Reverse Engineering | Firmware Exploitation | ARM Cortex-M | TrustZone  
+Multi-Agent Reinforcement Learning | Firmware Analysis | Python | ARM Cortex-M | Android  
 
 ---
 
 ## About Me
 
-I specialize in offensive security for embedded and low-level systems.
+Engineering student specializing in cybersecurity and artificial intelligence.
 
-My focus areas:
+My work combines:
 
-- Firmware analysis (STM32, ARM Cortex-M33)
-- TrustZone security boundaries
-- Reverse engineering (Ghidra, IDA)
-- Binary exploitation
-- Secure / Non-secure memory separation attacks
-- Zephyr OS security
+- AI systems (Multi-Agent RL, decision systems)
+- Offensive security
+- Embedded firmware analysis
+- Low-level system behavior
 
-I believe real understanding comes from breaking systems.
+I am particularly interested in how intelligent systems interact with constrained and secure environments.
 
 ---
 
-## Technical Stack
+## Core Skills
 
-Languages:
-- C
+### AI & Software
+- Python (advanced)
+- Multi-Agent Reinforcement Learning
+- Machine Learning experimentation
+- Simulation environments
+- Data analysis
+
+### Offensive & Low-Level Security
+- Firmware analysis (STM32 / ARM Cortex-M)
+- TrustZone architecture
+- Reverse engineering (Ghidra / IDA)
+- Debugging with OpenOCD
+- Memory mapping & isolation mechanisms
+
+### Mobile
+- Android fundamentals
+- Linux-based systems understanding
+
+---
+
+## Tools
+
 - Python
+- C
 - Bash
-
-Security Tools:
 - Ghidra
 - IDA
-- Hydra
 - STM32CubeProgrammer
-- OpenOCD
-
-Systems:
 - Zephyr OS
 - FreeRTOS
-- ARM Cortex-M33
-- TrustZone
 
 ---
 
-## Current Work
+## Current Focus
 
-- Secure / Non-Secure exploitation on STM32L5
-- Firmware reverse engineering
-- Embedded attack surface analysis
-- Secure boot & isolation bypass research
+- Embedded security research
+- Secure / Non-Secure boundary analysis
+- AI-driven decision systems
+- Firmware attack surface evaluation
 
 ---
 
 ## Philosophy
 
-Security is not about compliance.
-It is about control.
+Understanding systems deeply —  
+from intelligent algorithms down to hardware boundaries.
