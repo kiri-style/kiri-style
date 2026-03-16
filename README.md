@@ -1,4 +1,4 @@
-# Mahomet Khalil Kiri
+# Mahomed Khalil Kiri
 
 Offensive Security & AI Engineer  
 
